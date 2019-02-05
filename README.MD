@@ -1,4 +1,4 @@
-# Floow these guidelines to write a secured code
+# Follow these guidelines to write a secured code
 
 **Buffer Overrun**
 *	Pay attention to each of the string-handling and make sure that you are assigning precise memory in case of languages like C++. For Java or .Net where developer is least bothered about memory management also need some attention to these aspects.
